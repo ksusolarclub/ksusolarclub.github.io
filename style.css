@@ -409,7 +409,7 @@ section .title::after{
     background: black;
 }
 .officers .title::after{
-    content: "Meet the team";
+    content: "Meet our current team";
 }
 .officers .officers-content .column{
     width: calc(50% - 30px);
